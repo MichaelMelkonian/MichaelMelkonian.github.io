@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RSIWatcher/static/css/main.e6c13ad2.css",
+    "main.js": "/RSIWatcher/static/js/main.e5d32c83.js",
+    "static/js/488.eaae0ac0.chunk.js": "/RSIWatcher/static/js/488.eaae0ac0.chunk.js",
+    "index.html": "/RSIWatcher/index.html",
+    "main.e6c13ad2.css.map": "/RSIWatcher/static/css/main.e6c13ad2.css.map",
+    "main.e5d32c83.js.map": "/RSIWatcher/static/js/main.e5d32c83.js.map",
+    "488.eaae0ac0.chunk.js.map": "/RSIWatcher/static/js/488.eaae0ac0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e5d32c83.js"
+  ]
+}
